@@ -1,0 +1,3 @@
+||-pageObject  存放各个页面的元素、操作
+
+||-test_suit     存放用例

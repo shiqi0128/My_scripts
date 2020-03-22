@@ -1,0 +1,7 @@
+||-file_reader   封装各种数据文件读取方法，实现脚本参数化
+
+||——csv_reader.py  读取csv文件，支持逐行或逐列读取数据
+
+||——excel_reader.py  读取excel文件
+
+||——yaml_reader.py  读取yml文件，配置文件读取就是调用这个类中的get_data()方法

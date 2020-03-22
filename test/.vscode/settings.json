@@ -1,0 +1,19 @@
+{
+// whether to lint Python files using flake8
+"python.linting.flake8Enabled": true,
+
+//Provider for formatting,Possible options include
+"python.formatting.provider": "yapf",
+"python.unitTest.unittestArgs": [
+    "-v",
+    "-s",
+    ".",
+    "-p",
+    "test*.py"
+],
+"python.unitTest.pyTestEnabled": false,
+"python.unitTest.nosetestsEnabled": false,
+"python.unitTest.unittestEnabled": false,
+"python.unitTest.promptToConfigure": false,
+"debug.node.autoAttach": "on"
+}

@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="843db4be-8b3b-4230-8289-2a51976eb4d1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/project/login.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test$public_files.coverage" NAME="public_files Coverage Results" MODIFIED="1553765590514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL" />
+    <SUITE FILE_PATH="coverage/test$Unittests_in_gmall_script_py.coverage" NAME="Unittests in gmall_script.py Coverage Results" MODIFIED="1542615397349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$gmall_2_2_2.coverage" NAME="gmall_2.2.2 Coverage Results" MODIFIED="1547195021947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL" />
+    <SUITE FILE_PATH="coverage/test$test02__1_.coverage" NAME="test02 (1) Coverage Results" MODIFIED="1551256129190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all" />
+    <SUITE FILE_PATH="coverage/test$gmall_2_3_0.coverage" NAME="gmall_2.3.0 Coverage Results" MODIFIED="1551260898490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL" />
+    <SUITE FILE_PATH="coverage/test$test_stadium.coverage" NAME="test_stadium Coverage Results" MODIFIED="1540290351955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$gmall_2_4_1.coverage" NAME="gmall_2.4.1 Coverage Results" MODIFIED="1553858706578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new" />
+    <SUITE FILE_PATH="coverage/test$file_reader.coverage" NAME="file_reader Coverage Results" MODIFIED="1542189960048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practise/ten" />
+    <SUITE FILE_PATH="coverage/test$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1547784111997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL" />
+    <SUITE FILE_PATH="coverage/test$Unittests_for_gmall_script_gmall_test_test_login.coverage" NAME="Unittests for gmall_script.gmall_test.test_login Coverage Results" MODIFIED="1542608125482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$account.coverage" NAME="account Coverage Results" MODIFIED="1556009940190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all" />
+    <SUITE FILE_PATH="coverage/test$urls.coverage" NAME="urls Coverage Results" MODIFIED="1535615362039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guest/guest" />
+    <SUITE FILE_PATH="coverage/test$float.coverage" NAME="float Coverage Results" MODIFIED="1545380935692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL" />
+    <SUITE FILE_PATH="coverage/test$test_name_function.coverage" NAME="test_name_function Coverage Results" MODIFIED="1535615917865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practise/eleven" />
+    <SUITE FILE_PATH="coverage/test$new_float.coverage" NAME="new_float Coverage Results" MODIFIED="1545378751610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL" />
+    <SUITE FILE_PATH="coverage/test$invoke_fun.coverage" NAME="invoke_fun Coverage Results" MODIFIED="1548235205867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new" />
+    <SUITE FILE_PATH="coverage/test$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1553851533843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all" />
+    <SUITE FILE_PATH="coverage/test$gmall2_2__1_.coverage" NAME="gmall2.2 (1) Coverage Results" MODIFIED="1545118222383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$gmall.coverage" NAME="gmall Coverage Results" MODIFIED="1543385397679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$3.coverage" NAME="3 Coverage Results" MODIFIED="1545118063294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$gmall_2_2_3.coverage" NAME="gmall_2.2.3 Coverage Results" MODIFIED="1548226565947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL" />
+    <SUITE FILE_PATH="coverage/Test$test.coverage" NAME="test Coverage Results" MODIFIED="1518328789594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/" />
+    <SUITE FILE_PATH="coverage/test$2_2.coverage" NAME="2.2 Coverage Results" MODIFIED="1545117882301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$import.coverage" NAME="import Coverage Results" MODIFIED="1545646278903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL" />
+    <SUITE FILE_PATH="coverage/test$gmall_header.coverage" NAME="gmall_header Coverage Results" MODIFIED="1556002442072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL" />
+    <SUITE FILE_PATH="coverage/test$Unittests_for_gmall_script_zl_gmall_script_zl.coverage" NAME="Unittests for gmall_script_zl.gmall_script_zl Coverage Results" MODIFIED="1554261185851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all" />
+    <SUITE FILE_PATH="coverage/test$2.coverage" NAME="2 Coverage Results" MODIFIED="1545117719331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$lalala.coverage" NAME="lalala Coverage Results" MODIFIED="1553777959302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new" />
+    <SUITE FILE_PATH="coverage/test$patrol_header.coverage" NAME="patrol_header Coverage Results" MODIFIED="1555990384683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Intelligent_patrol" />
+    <SUITE FILE_PATH="coverage/test$gmall_funnel.coverage" NAME="gmall_funnel Coverage Results" MODIFIED="1545191710863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$test01__1_.coverage" NAME="test01 (1) Coverage Results" MODIFIED="1548226563577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new" />
+    <SUITE FILE_PATH="coverage/test$Unittests_in_gmall_2_2_py.coverage" NAME="Unittests in gmall_2.2.py Coverage Results" MODIFIED="1545117461942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$marketing_center.coverage" NAME="marketing_center Coverage Results" MODIFIED="1543386150871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$gmall_hexian.coverage" NAME="gmall_hexian Coverage Results" MODIFIED="1545128625957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$gmall_2_1_2_2.coverage" NAME="gmall_2.1_2.2 Coverage Results" MODIFIED="1545117281646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1545276223634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$invoke_2_2_3.coverage" NAME="invoke_2.2.3 Coverage Results" MODIFIED="1547804865568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_2.2.3" />
+    <SUITE FILE_PATH="coverage/test$Unittests_for_gmall_script_gmall_test.coverage" NAME="Unittests for gmall_script.gmall_test Coverage Results" MODIFIED="1542614747891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$gmall_script_zl.coverage" NAME="gmall_script_zl Coverage Results" MODIFIED="1554272267010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all" />
+    <SUITE FILE_PATH="coverage/test$gmall_2_4_0.coverage" NAME="gmall_2.4.0 Coverage Results" MODIFIED="1552460611472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new" />
+    <SUITE FILE_PATH="coverage/test$settings.coverage" NAME="settings Coverage Results" MODIFIED="1555991331106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Store_manage" />
+    <SUITE FILE_PATH="coverage/test$gmall2_2.coverage" NAME="gmall2.2 Coverage Results" MODIFIED="1545118120738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$gmall_hexian__1_.coverage" NAME="gmall_hexian (1) Coverage Results" MODIFIED="1545208469952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL" />
+    <SUITE FILE_PATH="coverage/Test$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1519982507016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$gmall_2_2_3__1_.coverage" NAME="gmall_2.2.3 (1) Coverage Results" MODIFIED="1548390714285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new" />
+    <SUITE FILE_PATH="coverage/test$shop_manage.coverage" NAME="shop_manage Coverage Results" MODIFIED="1551948440682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Store_manage" />
+    <SUITE FILE_PATH="coverage/test$gmall_2_2_1.coverage" NAME="gmall_2.2.1 Coverage Results" MODIFIED="1545386117589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL" />
+    <SUITE FILE_PATH="coverage/test$patrol_zl.coverage" NAME="patrol_zl Coverage Results" MODIFIED="1554272707138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Intelligent_patrol" />
+    <SUITE FILE_PATH="coverage/test$1.coverage" NAME="1 Coverage Results" MODIFIED="1545117566566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$cus_portrait.coverage" NAME="cus_portrait Coverage Results" MODIFIED="1555990423869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/customer_behavior" />
+    <SUITE FILE_PATH="coverage/test$gmall_script_01.coverage" NAME="gmall_script_01 Coverage Results" MODIFIED="1551777184975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL" />
+    <SUITE FILE_PATH="coverage/test$marketing_center_h5.coverage" NAME="marketing_center_h5 Coverage Results" MODIFIED="1545117427641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/test$gmall_2_4_0_error.coverage" NAME="gmall_2.4.0_error Coverage Results" MODIFIED="1552465328239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new" />
+    <SUITE FILE_PATH="coverage/test$gmall_2_4_2_3.coverage" NAME="gmall_2.4.2_3 Coverage Results" MODIFIED="1553241104276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new" />
+    <SUITE FILE_PATH="coverage/test$cus_manage.coverage" NAME="cus_manage Coverage Results" MODIFIED="1552362102591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/customer_behavior" />
+    <SUITE FILE_PATH="coverage/test$marketing_center_pc.coverage" NAME="marketing_center_pc Coverage Results" MODIFIED="1550143676791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL" />
+    <SUITE FILE_PATH="coverage/test$gmall_script.coverage" NAME="gmall_script Coverage Results" MODIFIED="1555991471330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all" />
+    <SUITE FILE_PATH="coverage/test$send_newreport.coverage" NAME="send_newreport Coverage Results" MODIFIED="1556015136486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Test_report" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1450938492">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.25" value="7" />
+          <entry key="project.open.time.26" value="8" />
+          <entry key="project.open.time.27" value="5" />
+          <entry key="project.open.time.28" value="3" />
+          <entry key="project.open.time.29" value="5" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.45" value="2" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.91" value="1" />
+          <entry key="project.opened" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="GMall" value="1" />
+          <entry key="UI-selenium" value="1" />
+          <entry key="html" value="4" />
+          <entry key="ini" value="1" />
+          <entry key="py" value="277" />
+          <entry key="pyi" value="2" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="4" />
+          <entry key="Ini" value="1" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="274" />
+          <entry key="PythonStub" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="121" />
+          <entry key="py" value="59243" />
+          <entry key="txt" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="139" />
+          <entry key="Python" value="59243" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/quick_shot_records.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/live_playback.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/account.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="989">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Test_report/send_newreport.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+              <folding>
+                <element signature="e#10#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/HTMLTestRunner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18814">
+              <caret line="823" column="48" selection-start-line="823" selection-start-column="48" selection-end-line="823" selection-end-column="48" />
+              <folding>
+                <element signature="e#3313#3328#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/color.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/entire_store.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/gmall_script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>learning</find>
+      <find>zh</find>
+      <find>&quot;2019-03-01&quot;, &quot;2019-04-30&quot;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/practise/eleven/test_name_function.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new/stores_compass.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new/customer_behavior.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/customer_behavior.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/gmall_script.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/stores_compass.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/marketing_center_h5.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/quick_shot_records.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Store_manage/business_manage.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/live_playback.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/customer_behavior/cus_group.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/customer_behavior/customer_behavior.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/customer_behavior/line_heat.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/customer_behavior/viscosity.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/marketing_center_PC.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_2.3.0.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/1.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/2.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_script_01.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/shop_manage_01.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/marketing_center_pc.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/marketing_center_h5.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Store_manage/shop_manage.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/business_aly/RF_model.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/float.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/business_aly/business_trend_export.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/business_aly/business_trend.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/business_aly/business_indicators.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/customer_behavior/cus_manage.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/entire_store.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new/gmall_2.4.0.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/business_aly/Category&amp;sales.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/business_aly/Category_sales.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new/gmall_2.4.0_error.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new/gmall_2.4.2_3.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/color.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new/lalala.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/test02.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_new/gmall_2.4.1.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Intelligent_patrol.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Intelligent_patrol/patrol_header.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/public_files.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Store_manage/settings.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/gmall_script_zl.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Intelligent_patrol/patrol_zl.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Intelligent_patrol/patrol.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/customer_behavior/cus_portrait.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_header.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/HtmlTestRunner/runner.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/account.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Test_report/send_newreport.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="223" />
+    <option name="y" value="432" />
+    <option name="width" value="1400" />
+    <option name="height" value="996" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Test" type="cbb8eebc:String" user="Test" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Test" type="cbb8eebc:String" user="Test" />
+              <item name="guest" type="cbb8eebc:String" user="guest" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Test" type="cbb8eebc:String" user="Test" />
+              <item name="guest" type="cbb8eebc:String" user="guest" />
+              <item name="guest" type="cbb8eebc:String" user="guest" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Test" type="cbb8eebc:String" user="Test" />
+              <item name="guest" type="cbb8eebc:String" user="guest" />
+              <item name="sign" type="cbb8eebc:String" user="sign" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Test" type="cbb8eebc:String" user="Test" />
+              <item name="Learning_log" type="cbb8eebc:String" user="Learning_log" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Test" type="cbb8eebc:String" user="Test" />
+              <item name="Learning_log" type="cbb8eebc:String" user="Learning_log" />
+              <item name="learning" type="cbb8eebc:String" user="learning" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Test" type="cbb8eebc:String" user="Test" />
+              <item name="Learning_log" type="cbb8eebc:String" user="Learning_log" />
+              <item name="Learning_log" type="cbb8eebc:String" user="Learning_log" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaceTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="GMALL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="GMALL" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_all" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="GMALL" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_all" type="462c0819:PsiDirectoryNode" />
+              <item name="Intelligent_patrol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="GMALL" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_all" type="462c0819:PsiDirectoryNode" />
+              <item name="Store_manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="GMALL" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_all" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="practise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="UI-Selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\test\interfaceTest\GMALL\gmall_all\Intelligent_patrol" />
+      <recent name="F:\test\interfaceTest\GMALL\gmall_all" />
+      <recent name="F:\test\interfaceTest\GMALL\gmall_all\customer_behavior" />
+      <recent name="F:\test\interfaceTest\GMALL\gmall_2.2.3" />
+      <recent name="D:\Test\Learning_log\users\templates\users" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.send_newreport">
+    <configuration name="account" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/account.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gmall_header" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interfaceTest/GMALL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_header.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gmall_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/gmall_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="send_newreport" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Test_report" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Test_report/send_newreport.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Store_manage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Store_manage/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.settings" />
+      <item itemvalue="Python.account" />
+      <item itemvalue="Python.gmall_script" />
+      <item itemvalue="Python.gmall_header" />
+      <item itemvalue="Python.send_newreport" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.send_newreport" />
+        <item itemvalue="Python.account" />
+        <item itemvalue="Python.gmall_header" />
+        <item itemvalue="Python.gmall_script" />
+        <item itemvalue="Python.settings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="843db4be-8b3b-4230-8289-2a51976eb4d1" name="Default" comment="" />
+      <created>1518328600544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518328600544</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_gmall_script_py - 2018.11.19 at 16h 08m 19s.xml">
+      <configuration name="Unittests in gmall_script.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_gmall_script_py - 2018.11.19 at 16h 10m 56s.xml">
+      <configuration name="Unittests in gmall_script.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_gmall_script_py - 2018.11.19 at 16h 13m 15s.xml">
+      <configuration name="Unittests in gmall_script.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_gmall_script_py - 2018.11.19 at 16h 13m 27s.xml">
+      <configuration name="Unittests in gmall_script.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_gmall_script_py - 2018.11.19 at 16h 14m 07s.xml">
+      <configuration name="Unittests in gmall_script.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_gmall_script_py - 2018.11.19 at 16h 15m 03s.xml">
+      <configuration name="Unittests in gmall_script.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_gmall_script_py - 2018.11.19 at 16h 15m 44s.xml">
+      <configuration name="Unittests in gmall_script.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_gmall_script_py - 2018.11.19 at 16h 16m 38s.xml">
+      <configuration name="Unittests in gmall_script.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_gmall_2_2_py - 2018.12.18 at 15h 17m 42s.xml">
+      <configuration name="Unittests in gmall_2.2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_gmall_script_zl_gmall_script_zl - 2019.04.03 at 11h 13m 12s.xml">
+      <configuration name="Unittests for gmall_script_zl.gmall_script_zl" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12686567" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33984798" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27252987" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32903227" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.35581395" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_new/invoke_fun.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Intelligent_patrol/patrol.py</url>
+          <line>203</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Store_manage/shop_manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5796">
+          <caret line="258" selection-start-line="258" selection-end-line="258" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/business_aly/business_indicators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/business_aly/business_trend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/marketing_center_pc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="77" column="44" lean-forward="true" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/business_aly/Category_sales.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="143" column="39" lean-forward="true" selection-start-line="143" selection-start-column="39" selection-end-line="143" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/business_aly/business_trend_export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_new/gmall_2.4.0_error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1610">
+          <caret line="75" column="66" lean-forward="true" selection-start-line="75" selection-start-column="66" selection-end-line="75" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/urllib3/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="149" selection-start-line="149" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_new/gmall_business_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="178" column="39" lean-forward="true" selection-start-line="178" selection-start-column="39" selection-end-line="178" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_funnel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_hexian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_2.2.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1145">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_2.3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/datetime.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="212" column="8" selection-start-line="212" selection-start-column="8" selection-end-line="212" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="1563" column="8" selection-start-line="1563" selection-start-column="8" selection-end-line="1563" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_new/gmall_2.4.2_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/marketing_center_h5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="63" column="34" lean-forward="true" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/test02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4761">
+          <caret line="214" selection-start-line="214" selection-end-line="217" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_new/lalala.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="54" column="26" lean-forward="true" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/customer_behavior/cus_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/customer_behavior/cus_manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_new/gmall_2.4.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="29" selection-end-line="433" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/public_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2116">
+          <caret line="95" column="43" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Intelligent_patrol/patrol_zl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Intelligent_patrol/patrol_header.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Intelligent_patrol/patrol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1662">
+          <caret line="219" column="24" lean-forward="true" selection-start-line="219" selection-start-column="24" selection-end-line="219" selection-end-column="24" />
+          <folding>
+            <element signature="e#37#52#0" expanded="true" />
+            <marker date="1555919795577" expanded="true" signature="563:564" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="583:588" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="816:817" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="4446:4447" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="4505:4506" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="6304:6305" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="6657:6658" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="6872:6873" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="7546:7547" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="8731:8732" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="10232:10233" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="10492:10493" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="11193:11194" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="12474:12475" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="12802:12803" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="13144:13145" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="13510:13511" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="13886:13887" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="14517:14518" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="15114:15115" ph="..." />
+            <marker date="1555919795577" expanded="true" signature="15511:15512" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/requests/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="505" selection-start-line="505" selection-end-line="505" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="507" selection-start-line="507" selection-end-line="507" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/customer_behavior/cus_portrait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/marketing_center_PC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="43" column="63" lean-forward="true" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/stores_compass.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Store_manage/business_manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Store_manage/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/HtmlTestRunner/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/HtmlTestRunner/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="19" column="59" lean-forward="true" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/gmall_script_zl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13524">
+          <caret line="605" selection-start-line="605" selection-end-line="608" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_header.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Test_report2019-04-23 17_49_13-testresult.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Test_report2019-04-23 17_53_56-testresult.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Test_report/2019-04-23 18_24_52-testresult.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Test_report/2019-04-23 18_25_37-testresult.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/quick_shot_records.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/live_playback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18814">
+          <caret line="823" column="48" selection-start-line="823" selection-start-column="48" selection-end-line="823" selection-end-column="48" />
+          <folding>
+            <element signature="e#3313#3328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/color.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/entire_store.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/gmall_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaceTest/GMALL/gmall_all/Test_report/send_newreport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="e#10#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

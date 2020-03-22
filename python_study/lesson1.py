@@ -7,4 +7,4 @@
 # print(language)
 
 
-print(0 or 1)
+# print(0 or 1)

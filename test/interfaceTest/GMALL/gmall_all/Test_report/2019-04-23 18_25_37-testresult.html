@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>接口测试报告</title>
+    <meta name="generator" content="HTMLTestRunner 0.8.3"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    
+<style type="text/css" media="screen">
+body        { font-family: verdana, arial, helvetica, sans-serif; font-size: 80%; }
+table       { font-size: 100%; }
+pre         { word-wrap:break-word;word-break:break-all;overflow:auto;}
+/* -- heading ---------------------------------------------------------------------- */
+h1 {
+	font-size: 16pt;
+	color: gray;
+}
+.heading {
+    margin-top: 0ex;
+    margin-bottom: 1ex;
+}
+
+.heading .attribute {
+    margin-top: 1ex;
+    margin-bottom: 0;
+}
+
+.heading .description {
+    margin-top: 2ex;
+    margin-bottom: 3ex;
+}
+
+/* -- css div popup ------------------------------------------------------------------------ */
+a.popup_link {
+}
+
+a.popup_link:hover {
+    color: red;
+}
+
+.popup_window {
+    display: none;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    /*border: solid #627173 1px; */
+    padding: 10px;
+    background-color: #E6E6D6;
+    font-family: "Lucida Console", "Courier New", Courier, monospace;
+    text-align: left;
+    font-size: 8pt;
+    /* width: 500px;*/
+}
+
+}
+/* -- report ------------------------------------------------------------------------ */
+#show_detail_line {
+    margin-top: 3ex;
+    margin-bottom: 1ex;
+}
+#result_table {
+    width: 99%;
+}
+#header_row {
+    font-weight: bold;
+    color: white;
+    background-color: #777;
+}
+#total_row  { font-weight: bold; }
+.passClass  { background-color: #74A474; }
+.failClass  { background-color: #FDD283; }
+.errorClass { background-color: #FF6600; }
+.passCase   { color: #6c6; }
+.failCase   { color: #FF6600; font-weight: bold; }
+.errorCase  { color: #c00; font-weight: bold; }
+.hiddenRow  { display: none; }
+.testcase   { margin-left: 2em; }
+
+
+/* -- ending ---------------------------------------------------------------------- */
+#ending {
+}
+
+#div_base {
+            position:absolute;
+            top:0%;
+            left:5%;
+            right:5%;
+            width: auto;
+            height: auto;
+            margin: -15px 0 0 0;
+}
+</style>
+
+    <link href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<script language="javascript" type="text/javascript"><!--
+output_list = Array();
+
+/* level - 0:Summary; 1:Failed; 2:All */
+function showCase(level) {
+    trs = document.getElementsByTagName("tr");
+    for (var i = 0; i < trs.length; i++) {
+        tr = trs[i];
+        id = tr.id;
+        if (id.substr(0,2) == 'ft') {
+            if (level < 1) {
+                tr.className = 'hiddenRow';
+            }
+            else {
+                tr.className = '';
+            }
+        }
+        if (id.substr(0,2) == 'pt') {
+            if (level > 1) {
+                tr.className = '';
+            }
+            else {
+                tr.className = 'hiddenRow';
+            }
+        }
+    }
+}
+
+
+function showClassDetail(cid, count) {
+    var id_list = Array(count);
+    var toHide = 1;
+    for (var i = 0; i < count; i++) {
+        tid0 = 't' + cid.substr(1) + '.' + (i+1);
+        tid = 'f' + tid0;
+        tr = document.getElementById(tid);
+        if (!tr) {
+            tid = 'p' + tid0;
+            tr = document.getElementById(tid);
+        }
+        id_list[i] = tid;
+        if (tr.className) {
+            toHide = 0;
+        }
+    }
+    for (var i = 0; i < count; i++) {
+        tid = id_list[i];
+        if (toHide) {
+            document.getElementById('div_'+tid).style.display = 'none'
+            document.getElementById(tid).className = 'hiddenRow';
+        }
+        else {
+            document.getElementById(tid).className = '';
+        }
+    }
+}
+
+
+function showTestDetail(div_id){
+    var details_div = document.getElementById(div_id)
+    var displayState = details_div.style.display
+    // alert(displayState)
+    if (displayState != 'block' ) {
+        displayState = 'block'
+        details_div.style.display = 'block'
+    }
+    else {
+        details_div.style.display = 'none'
+    }
+}
+
+
+function html_escape(s) {
+    s = s.replace(/&/g,'&amp;');
+    s = s.replace(/</g,'&lt;');
+    s = s.replace(/>/g,'&gt;');
+    return s;
+}
+
+/* obsoleted by detail in <div>
+function showOutput(id, name) {
+    var w = window.open("", //url
+                    name,
+                    "resizable,scrollbars,status,width=800,height=450");
+    d = w.document;
+    d.write("<pre>");
+    d.write(html_escape(output_list[id]));
+    d.write("\n");
+    d.write("<a href='javascript:window.close()'>close</a>\n");
+    d.write("</pre>\n");
+    d.close();
+}
+*/
+--></script>
+<div id="div_base">
+
+<div class='page-header'>
+<h1>接口测试报告</h1>
+<p class='attribute'><strong>开始时间:</strong> 2019-04-23 18:25:37</p>
+<p class='attribute'><strong>运行时长:</strong> 0:00:00.630342</p>
+<p class='attribute'><strong>状态:</strong> pass 3</p>
+
+</div>
+<p class='description'>测试结果如下: </p>
+
+
+
+<div class="btn-group btn-group-sm">
+<button class="btn btn-default" onclick='javascript:showCase(0)'>Summary</button>
+<button class="btn btn-default" onclick='javascript:showCase(1)'>Failed</button>
+<button class="btn btn-default" onclick='javascript:showCase(2)'>All</button>
+</div>
+<p></p>
+<table id='result_table' class="table table-bordered">
+<colgroup>
+<col align='left' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+</colgroup>
+<tr id='header_row'>
+    <td>Test Group/Test case</td>
+    <td>Count</td>
+    <td>Pass</td>
+    <td>Fail</td>
+    <td>Error</td>
+    <td>View</td>
+</tr>
+
+<tr class='passClass'>
+    <td>interfaceTest.GMALL.gmall_all.account.gmall_account: 定义一个账号相关接口的测试类</td>
+    <td>3</td>
+    <td>3</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c1',3)">详情</a></td>
+</tr>
+
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_01_users: 可创建用户角色</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
+        pass</a>
+
+    <div id='div_pt1.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.1: [1;32m可创建用户角色[0m {'code': 0, 'message': '用户信息', 'data': {'user': {'id': 2272, 'username': 'admin_sylvia', 'email': '', 'company_id': 11, 'shop_ids': ['25'], 'default_shop_id': 25, 'is_superuser': 1, 'is_recv_mp_notice': 0, 'status': 1, 'parent_uid': 0, 'staff_name': '鞠敬伟', 'phone': '15850511512', 'nickname': 'Sylvia 十七', 'gender': 2, 'city': '徐汇', 'avatar_url': 'https://ai-gmall-qa-1251506165.cos.ap-shanghai.myqcloud.com/wechat/2019012118/EfPPDXpELUDm326HM6QrlsO2sfATMFAtqV4aDqPr', 'country': '中国', 'province': '上海', 'created_at': '2018-12-17 18:17:45', 'updated_at': '2019-04-23 14:52:41', 'parent_name': '主体账号', 'shop_names': [{'id': 25, 'name': 'sylvia新建的测试门店-其他人不要动不要动'}], 'role_names': [{'id': 100, 'name': '主体账号角色', 'desc': '具备平台所有的管理权限。', 'rank': 0}], 'binded_thirds': {'Wechat': 1}, 'menu_tree': {'routine': [{'id': 1, 'name': 'Dashboard', 'url': '/dashboard', 'type': 0, 'children': None}, {'id': 2, 'name': '实时罗盘', 'url': '/real-time-data', 'type': 0, 'children': None}, {'id': 3, 'name': '客流分析', 'url': '/customer-analysis', 'type': 0, 'children': [{'id': 11, 'name': '客流趋势', 'url': '/customer-analysis/customer-trend', 'type': 0, 'children': None}, {'id': 53, 'name': '过线客流', 'url': '/customer-analysis/crossline-passenger', 'type': 0, 'children': None}, {'id': 12, 'name': '活跃度', 'url': '/customer-analysis/activity-level', 'type': 0, 'children': None}, {'id': 13, 'name': '活跃天数', 'url': '/customer-analysis/activity-days', 'type': 0, 'children': None}]}, {'id': 4, 'name': '顾客行为', 'url': '/customer-behavior', 'type': 0, 'children': [{'id': 14, 'name': '顾客动线', 'url': '/customer-behavior/heat-line', 'type': 0, 'children': None}, {'id': 16, 'name': '时长分析', 'url': '/customer-behavior/duration-analysis', 'type': 0, 'children': None}, {'id': 17, 'name': '频率分析', 'url': '/customer-behavior/frequency-analysis', 'type': 0, 'children': None}, {'id': 18, 'name': '深度分析', 'url': '/customer-behavior/depth-analysis', 'type': 0, 'children': None}]}, {'id': 5, 'name': '顾客管理', 'url': '/customer-management', 'type': 0, 'children': [{'id': 19, 'name': '顾客画像', 'url': '/customer-management/customer-portrait', 'type': 0, 'children': None}, {'id': 20, 'name': '顾客漏斗', 'url': '/customer-management/customer-funnel', 'type': 0, 'children': None}, {'id': 21, 'name': '顾客标签', 'url': '/customer-management/customer-label', 'type': 0, 'children': None}, {'id': 22, 'name': '顾客分群', 'url': '/customer-management/customer-group', 'type': 0, 'children': None}, {'id': 23, 'name': '顾客列表', 'url': '/customer-management/customer-list', 'type': 0, 'children': None}, {'id': 24, 'name': '到店提醒', 'url': '/customer-management/customer-alert', 'type': 0, 'children': None}, {'id': 25, 'name': '黑名单', 'url': '/customer-management/blacklist', 'type': 0, 'children': None}]}, {'id': 6, 'name': '经营分析', 'url': '/business-analysis', 'type': 0, 'children': [{'id': 52, 'name': '经营魔方', 'url': '/business-analysis/operational-cube', 'type': 0, 'children': None}, {'id': 26, 'name': '经营指标', 'url': '/business-analysis/operation-trend', 'type': 0, 'children': None}, {'id': 27, 'name': '经营趋势', 'url': '/business-analysis/business-trend', 'type': 0, 'children': None}, {'id': 28, 'name': '品类分析', 'url': '/business-analysis/category-analysis', 'type': 0, 'children': None}, {'id': 29, 'name': '商品销售', 'url': '/business-analysis/product-analysis', 'type': 0, 'children': None}, {'id': 30, 'name': '订单列表', 'url': '/business-analysis/order-list', 'type': 0, 'children': None}]}, {'id': 7, 'name': '顾客周期', 'url': '/customer-cycle', 'type': 0, 'children': [{'id': 31, 'name': '客流模型', 'url': '/customer-cycle/customer-model', 'type': 0, 'children': None}, {'id': 32, 'name': '交易模型', 'url': '/customer-cycle/trading-model', 'type': 0, 'children': None}]}, {'id': 8, 'name': '营销中心', 'url': '/marketing-center', 'type': 0, 'children': [{'id': 33, 'name': '营销中心', 'url': '/marketing-center/activity-template', 'type': 0, 'children': None}]}, {'id': 9, 'name': '门店巡查', 'url': '/shop-inspection', 'type': 0, 'children': [{'id': 34, 'name': '监控中心', 'url': '/shop-inspection/monitoring-center', 'type': 0, 'children': None}, {'id': 35, 'name': '录像回放', 'url': '/shop-inspection/replay-theater', 'type': 0, 'children': None}, {'id': 39, 'name': '抓拍记录', 'url': '/shop-inspection/photo-record', 'type': 0, 'children': None}, {'id': 36, 'name': '整改任务', 'url': '/shop-inspection/rectified-task', 'type': 0, 'children': None}]}, {'id': 10, 'name': '门店管理', 'url': '/store-management', 'type': 0, 'children': [{'id': 37, 'name': '收银防损', 'url': '/store-management/stop-loss', 'type': 0, 'children': None}, {'id': 38, 'name': '店员详情', 'url': '/store-management/guide-detail', 'type': 0, 'children': None}, {'id': 40, 'name': '账号权限', 'url': '/store-management/account-permission', 'type': 0, 'children': None}, {'id': 41, 'name': '邮件推送', 'url': '/store-management/mail-push', 'type': 0, 'children': None}, {'id': 42, 'name': '流量预警', 'url': '/store-management/customer-warning', 'type': 0, 'children': None}]}], 'all_shops': [{'id': 43, 'name': '全店模式', 'url': '/all-shop', 'type': 1, 'children': [{'id': 44, 'name': '门店列表', 'url': '/all-shop/shop-list', 'type': 1, 'children': None}, {'id': 45, 'name': '门店趋势', 'url': '/all-shop/shop-trend', 'type': 1, 'children': None}, {'id': 46, 'name': '智慧门店', 'url': '/all-shop/smart-shop', 'type': 1, 'children': [{'id': 47, 'name': '模板管理', 'url': '/all-shop/smart-shop/template-admin', 'type': 1, 'children': None}, {'id': 48, 'name': '巡查任务', 'url': '/all-shop/smart-shop/patrol-task', 'type': 1, 'children': None}, {'id': 49, 'name': '智能巡查', 'url': '/all-shop/smart-shop/smart-patrol', 'type': 1, 'children': None}, {'id': 50, 'name': '在线巡查', 'url': '/all-shop/smart-shop/patrol-online', 'type': 1, 'children': None}, {'id': 51, 'name': '巡查统计', 'url': '/all-shop/smart-shop/patrol-statics', 'type': 1, 'children': None}]}]}]}, 'permissions': None}}, 'elapsed': 0.116} 
+
+
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_02_old_password: 验证原密码</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.2')" >
+        pass</a>
+
+    <div id='div_pt1.2' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.2').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.2: [1;32m验证原密码:[0m {'code': 0, 'message': 'checkOldPassword', 'data': {'check': False}, 'elapsed': 0.179} 
+
+
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.3' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_03_Message_notification_list: 消息通知列表</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.3')" >
+        pass</a>
+
+    <div id='div_pt1.3' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.3').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.3: [1;32m消息通知列表:[0m {'code': 0, 'message': 'index', 'data': {'notifications': {'current_page': 1, 'data': None, 'first_page_url': 'https://qa-api-gmall.wetax.com.cn/api/shops/25/notifications?page=1', 'from': None, 'last_page': 1, 'last_page_url': 'https://qa-api-gmall.wetax.com.cn/api/shops/25/notifications?page=1', 'next_page_url': None, 'path': 'https://qa-api-gmall.wetax.com.cn/api/shops/25/notifications', 'per_page': 20, 'prev_page_url': None, 'to': None, 'total': 0}}, 'elapsed': 0.113} 
+
+
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='total_row'>
+    <td>Total</td>
+    <td>3</td>
+    <td>3</td>
+    <td>0</td>
+    <td>0</td>
+    <td>&nbsp;</td>
+</tr>
+</table>
+
+<div id='ending'>&nbsp;</div>
+
+</div>
+</body>
+</html>

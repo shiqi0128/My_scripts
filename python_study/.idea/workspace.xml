@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa443546-b9ba-475b-b513-fe9a0e222b54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_0323.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_0323.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_0323.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +135,7 @@
       <workItem from="1584069185633" duration="40000" />
       <workItem from="1584627389560" duration="1410000" />
       <workItem from="1584865636742" duration="11738000" />
-      <workItem from="1585053178116" duration="6786000" />
+      <workItem from="1585053178116" duration="9188000" />
     </task>
     <servers />
   </component>

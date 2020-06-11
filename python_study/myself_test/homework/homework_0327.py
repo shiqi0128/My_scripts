@@ -30,15 +30,15 @@
 # 4.判断是否为闰年
 # 提示:
 # a.输入一个有效的年份（如：2019），判断是否为闰年
-while True:
-    year = int(input("请输入一个有效的年份:"))
-    if year % 400 == 0:
-        print(f"{year}是闰年")
-    elif year % 4 == 0 and year % 100 != 0:
-        print(f"{year}是闰年")
-    else:
-        print(f"{year}是平年")
-        break
+# while True:
+#     year = int(input("请输入一个有效的年份:"))
+#     if year % 400 == 0:
+#         print(f"{year}是闰年")
+#     elif year % 4 == 0 and year % 100 != 0:
+#         print(f"{year}是闰年")
+#     else:
+#         print(f"{year}是平年")
+#         break
 # b.润年的判断规则，请自行“撩度娘”
 # 符合规则1或者规则2，为润年：
 # 1. 能被4整除但是不能被100整除
@@ -46,14 +46,14 @@ while True:
 
 # c.如果是闰年，则打印“2019年是闰年”；否则打印“2019年不是闰年”
 # while True:
-    year = int(input("请输入一个有效的年份:"))
-    if year % 400 == 0:
-        print(f"2019是闰年")
-    elif year % 4 == 0 and year % 100 != 0:
-        print(f"2019是闰年")
-    else:
-        print(f"2019不是闰年")
-        break
+#     year = int(input("请输入一个有效的年份:"))
+#     if year % 400 == 0:
+#         print(f"2019是闰年")
+#     elif year % 4 == 0 and year % 100 != 0:
+#         print(f"2019是闰年")
+#     else:
+#         print(f"2019不是闰年")
+#         break
 # 5.编写如下程序
 # a.用户输入1-7七个数字，分别代表周一到周日
 # 第一种方法
@@ -61,22 +61,22 @@ while True:
 # num = int(input("请输入1~7以内的数字:"))
 # print(f"今天是{week_list[num-1]}")
 # 第二种方法
-weekend = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
-while True:
-    day = input("请输入1-7中的任意数字,输入0退出:")
-    # b.如果输入1~5，打印对应的“周一”~“周五”，如果输入的数字是6或7，打印输出“周末”
-    if day.isdigit():
-        day = int(day)
-        if  day == 6 or day == 7:
-            print(f"今天是周末")
-        elif day in range(1, 6):
-            print(f"今天是{weekend[day-1]}")
-    # c.如果输入0，退出循环
-        elif day == 0:
-            break
-# # d.输入其他内容，提示：“输入有误，请重新输入！”
-    else:
-        print("输入有误,请重新输入！")
+# weekend = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
+# while True:
+#     day = input("请输入1-7中的任意数字,输入0退出:")
+#     # b.如果输入1~5，打印对应的“周一”~“周五”，如果输入的数字是6或7，打印输出“周末”
+#     if day.isdigit():
+#         day = int(day)
+#         if  day == 6 or day == 7:
+#             print(f"今天是周末")
+#         elif day in range(1, 6):
+#             print(f"今天是{weekend[day-1]}")
+#     # c.如果输入0，退出循环
+#         elif day == 0:
+#             break
+# # # d.输入其他内容，提示：“输入有误，请重新输入！”
+#     else:
+#         print("输入有误,请重新输入！")
 # 提示：本题可以使用if和while循环
 
 # 6.使用思维导图总结最近几次课的知识点

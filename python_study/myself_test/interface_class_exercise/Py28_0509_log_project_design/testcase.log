@@ -1,0 +1,6 @@
+2020-05-30 00:53:09,851 - [INFO] - [msg]: 开始执行用例 - testcase.log - 37
+2020-05-30 00:53:09,961 - [ERROR] - [msg]: {'id': 1, 'name': '注册接口正向用例', 'url': 'http://api.lemonban.com/futureloan/member/register', 'method': 'POST', 'data': '{"mobile_phone":"18511114479","pwd": "12345678"}', 'expected_value': 0, None: '失败'}:具体异常为注册接口正向用例 :: 0 != 2 - testcase.log - 61
+2020-05-30 00:53:10,028 - [INFO] - [msg]: 用例执行结束 - testcase.log - 42
+2020-05-30 00:56:59,294 - [INFO] - [msg]: 开始执行用例 - testcase.log - 37
+2020-05-30 00:56:59,390 - [ERROR] - [msg]: {'id': 1, 'name': '注册接口正向用例', 'url': 'http://api.lemonban.com/futureloan/member/register', 'method': 'POST', 'data': '{"mobile_phone":"18511114479","pwd": "12345678"}', 'expected_value': 0, None: '失败'}:具体异常为0 != 2 : 注册接口正向用例 - testcase.log - 61
+2020-05-30 00:56:59,455 - [INFO] - [msg]: 用例执行结束 - testcase.log - 42

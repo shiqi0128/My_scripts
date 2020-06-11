@@ -1,0 +1,30 @@
+2020-05-09 20:26:53,041 - [DEBUG] - [msg]: 这是一条debug级别的日志！ - testcase - 52
+2020-05-09 20:26:53,041 - [INFO] - [msg]: 这是一条info级别的日志！ - testcase - 53
+2020-05-09 20:26:53,042 - [WARNING] - [msg]: 这是一条warning级别的日志！ - testcase - 54
+2020-05-09 20:26:53,042 - [ERROR] - [msg]: 这是一条error级别的日志！ - testcase - 55
+2020-05-09 20:26:53,042 - [CRITICAL] - [msg]: 这是一条critical级别的日志！ - testcase - 56
+2020-05-09 20:33:34,416 - [INFO] - [msg]: 开始执行用例 - testcase - 44
+2020-05-09 20:33:34,504 - [ERROR] - [msg]: 注册接口正向用例：具体异常为注册接口正向用例 :: 0 != 2 - testcase - 97
+2020-05-09 20:33:34,932 - [INFO] - [msg]: 用例执行结束 - testcase - 49
+2020-05-09 20:36:10,876 - [INFO] - [msg]: 开始执行用例 - testcase - 44
+2020-05-09 20:36:10,954 - [ERROR] - [msg]: 注册接口正向用例：具体异常为0 != 2 : 注册接口正向用例 - testcase - 97
+2020-05-09 20:36:11,141 - [INFO] - [msg]: 用例执行结束 - testcase - 49
+2020-05-09 20:36:11,141 - [INFO] - [msg]: 开始执行用例 - testcase - 34
+2020-05-09 20:36:11,340 - [INFO] - [msg]: 用例执行结束 - testcase - 39
+2020-05-11 10:23:46,782 - [INFO] - [msg]: 开始执行用例 - testcase - 34
+2020-05-11 10:23:47,107 - [ERROR] - [msg]: 注册接口正向用例：具体异常为0 != 2 : 注册接口正向用例 - testcase - 60
+2020-05-11 10:23:47,212 - [INFO] - [msg]: 用例执行结束 - testcase - 39
+2020-05-11 10:24:42,662 - [INFO] - [msg]: 开始执行用例 - testcase - 34
+2020-05-11 10:24:42,713 - [ERROR] - [msg]: 注册接口正向用例：具体异常为0 != 2 : 注册接口正向用例 - testcase - 60
+2020-05-11 10:24:42,806 - [INFO] - [msg]: 用例执行结束 - testcase - 39
+2020-05-11 10:24:42,806 - [INFO] - [msg]: 开始执行用例 - testcase - 34
+2020-05-11 10:24:42,927 - [INFO] - [msg]: 用例执行结束 - testcase - 39
+2020-05-11 21:39:52,984 - [INFO] - [msg]: 开始执行用例 - testcase - 39
+2020-05-11 21:43:55,133 - [INFO] - [msg]: 用例执行结束 - testcase - 45
+2020-05-11 21:43:55,133 - [INFO] - [msg]: 开始执行用例 - testcase - 34
+2020-05-11 21:43:55,272 - [ERROR] - [msg]: 正常登录：具体异常为'{"code": 0, "msg": "OK"}' not found in '{"code":2,"msg":"无效的手机格式","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}' : 正常登录 - testcase - 56
+2020-05-11 21:43:55,582 - [ERROR] - [msg]: 手机号为空：具体异常为'{"code": 1, "msg": "手机号码为空"}' not found in '{"code":2,"msg":"手机号码为空","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}' : 手机号为空 - testcase - 56
+2020-05-11 21:43:55,977 - [ERROR] - [msg]: 密码为空：具体异常为'{"code": 1, "msg": "密码为空"}' not found in '{"code":2,"msg":"密码为空","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}' : 密码为空 - testcase - 56
+2020-05-11 21:43:56,383 - [ERROR] - [msg]: 密码错误：具体异常为'{"code": 1001, "msg": "账号信息错误"}' not found in '{"code":2,"msg":"无效的手机格式","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}' : 密码错误 - testcase - 56
+2020-05-11 21:43:56,978 - [ERROR] - [msg]: 手机号错误：具体异常为'{"code": 2, "msg": "无效的手机格式"}' not found in '{"code":2,"msg":"无效的手机格式","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}' : 手机号错误 - testcase - 56
+2020-05-11 21:43:57,586 - [INFO] - [msg]: 用例执行结束 - testcase - 39

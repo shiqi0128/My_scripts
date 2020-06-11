@@ -1,0 +1,15 @@
+2020-05-28 01:42:40,943 - [DEBUG] - [msg]: 这是一条debug级别的日志！ - testcase - 55
+2020-05-28 01:42:40,943 - [INFO] - [msg]: 这是一条info级别的日志！ - testcase - 56
+2020-05-28 01:42:40,943 - [WARNING] - [msg]: 这是一条warning级别的日志！ - testcase - 57
+2020-05-28 01:42:40,944 - [ERROR] - [msg]: 这是一条error级别的日志！ - testcase - 58
+2020-05-28 01:42:40,944 - [CRITICAL] - [msg]: 这是一条critical级别的日志！ - testcase - 59
+2020-05-28 01:43:55,195 - [DEBUG] - [msg]: 这是一条debug级别的日志！ - testcase - 55
+2020-05-28 01:43:55,195 - [INFO] - [msg]: 这是一条info级别的日志！ - testcase - 56
+2020-05-28 01:43:55,195 - [WARNING] - [msg]: 这是一条warning级别的日志！ - testcase - 57
+2020-05-28 01:43:55,208 - [ERROR] - [msg]: 这是一条error级别的日志！ - testcase - 58
+2020-05-28 01:43:55,209 - [CRITICAL] - [msg]: 这是一条critical级别的日志！ - testcase - 59
+2020-05-28 01:46:14,934 - [DEBUG] - [msg]: 这是一条debug级别的日志 - testcase - 37
+2020-05-28 01:46:14,935 - [INFO] - [msg]: 这是一条info级别的日志 - testcase - 38
+2020-05-28 01:46:14,935 - [WARNING] - [msg]: 这是一条waring级别的日志 - testcase - 39
+2020-05-28 01:46:14,935 - [ERROR] - [msg]: 这是一条error级别的日志 - testcase - 40
+2020-05-28 01:46:14,935 - [CRITICAL] - [msg]: 这是一条critical级别的日志 - testcase - 41

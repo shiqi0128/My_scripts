@@ -2,10 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa443546-b9ba-475b-b513-fe9a0e222b54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/homework_0327.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/.idea/TestApi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/cases/test_01_register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/confs/testcase.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/data/testcase.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/libs/HTMLTestRunnerNew.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/libs/ddt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/logs/testcase.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/reports/testcase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/scripts/handel_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/scripts/handle_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/scripts/handle_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/scripts/handle_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/scripts/handle_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApi/scripts/handle_yaml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py28_0415_class_object_2/test1_shiqi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0330.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0401.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0403.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0403a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0408.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0410.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0413.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0415.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0417.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0422.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0424.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_042402.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0427.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0429/homework_test0429.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0429/test_01_register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/homework/homework_0429/test_02_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0429_unittest_2_excel/all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log/HTMLTestRunnerNew.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log/aaa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log/ddt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log/handel_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log/handle_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log/handle_yaml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log/lm_02_read_yaml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log/lm_03_handle_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log/test_01_register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log/testcase.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log/testcase.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design/HTMLTestRunnerNew.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design/ddt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design/handel_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design/handle_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design/handle_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design/handle_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design/handle_yaml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design/test_01_register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design/testcase.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design/testcase.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interview_test/interview_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/interview_test/interview_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/lemon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/py_test/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/py_test/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/web_class_exercise/py28_0526_selenium_html/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/web_class_exercise/py28_0526_selenium_html/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/web_class_exercise/py28_0526_selenium_html/open_brower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/web_class_exercise/py28_0527_js_dom_selenium/find_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself_test/web_class_exercise/py28_0529_element/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_study.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_0323.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework/homework_0323.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_0325.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework/homework_0325.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Py28_0327_if_for_while/lm_09_workhome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Py28_0327_if_for_while/lm_09_workhome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/homework_0323.py" beforeDir="false" afterPath="$PROJECT_DIR$/myself_test/homework/homework_0323.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/homework_0325.py" beforeDir="false" afterPath="$PROJECT_DIR$/myself_test/homework/homework_0325.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/homework_0327.py" beforeDir="false" afterPath="$PROJECT_DIR$/myself_test/homework/homework_0327.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +90,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -31,14 +106,27 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestApi0509" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharm_Workspace\python_study\myself_test\interface_class_exercise\Py28_0509_log_project_design" />
+      <recent name="D:\pycharm_Workspace\python_study\myself_test\interface_class_exercise\Py28_0508_handle_config_log" />
+      <recent name="D:\pycharm_Workspace\python_study\myself_test" />
+      <recent name="D:\pycharm_Workspace\python_study\myself_test\class_exercise\py28_0506_excel_ddt" />
+      <recent name="D:\pycharm_Workspace\python_study\myself_test\class_exercise\py_test_double" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\pycharm_Workspace\python_study\homework" />
+      <recent name="D:\pycharm_Workspace\python_study\myself_test\interface_class_exercise\Py28_0508_handle_config_log" />
+      <recent name="D:\pycharm_Workspace\python_study\myself_test\interface_class_exercise\Py28_0429_unittest_2_excel" />
+      <recent name="D:\pycharm_Workspace\python_study\myself_test" />
+      <recent name="D:\pycharm_Workspace\python_study\myself_test\class_exercise" />
+      <recent name="D:\pycharm_Workspace\python_study\myself_test\homework" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -53,8 +141,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.homework_0327">
-    <configuration name="homework_0323" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test1">
+    <configuration name="find_element" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,12 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myself_test/web_class_exercise/py28_0527_js_dom_selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\pycharm_Workspace\python_study\homework\homework_0323.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myself_test/web_class_exercise/py28_0527_js_dom_selenium/find_element.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework_0325" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,12 +172,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\pycharm_Workspace\python_study\homework\homework_0325.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework_0327" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,12 +194,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myself_test/web_class_exercise/py28_0529_element" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/homework_0327.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myself_test/web_class_exercise/py28_0529_element/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,57 +208,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for test_01_register.TestRegister" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_01_register.TestRegister&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for test_01_register.TestRegister.test_register" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_01_register.TestRegister.test_register&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.homework_0327" />
-        <item itemvalue="Python.homework_0325" />
-        <item itemvalue="Python.homework_0323" />
-        <item itemvalue="Python.lesson3" />
-        <item itemvalue="Python.lesson1" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python tests.Unittests for test_01_register.TestRegister" />
+        <item itemvalue="Python tests.Unittests for test_01_register.TestRegister.test_register" />
+        <item itemvalue="Python.find_element" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +264,63 @@
       <workItem from="1584865636742" duration="11738000" />
       <workItem from="1585053178116" duration="9188000" />
       <workItem from="1585226872586" duration="11270000" />
-      <workItem from="1585458341712" duration="12868000" />
+      <workItem from="1585458341712" duration="15653000" />
+      <workItem from="1585577452568" duration="636000" />
+      <workItem from="1585720492125" duration="6156000" />
+      <workItem from="1585728463674" duration="12790000" />
+      <workItem from="1585833577143" duration="14696000" />
+      <workItem from="1585903963500" duration="532000" />
+      <workItem from="1586058761195" duration="14627000" />
+      <workItem from="1586183793882" duration="1547000" />
+      <workItem from="1586231987385" duration="26746000" />
+      <workItem from="1586315626148" duration="10539000" />
+      <workItem from="1586440624159" duration="2214000" />
+      <workItem from="1586500187045" duration="22179000" />
+      <workItem from="1586677541363" duration="10953000" />
+      <workItem from="1586755393312" duration="10107000" />
+      <workItem from="1586835282309" duration="3781000" />
+      <workItem from="1586928713085" duration="5726000" />
+      <workItem from="1587010747392" duration="11778000" />
+      <workItem from="1587089167564" duration="7716000" />
+      <workItem from="1587202677666" duration="12896000" />
+      <workItem from="1587355362821" duration="1557000" />
+      <workItem from="1587475038065" duration="601000" />
+      <workItem from="1587534152076" duration="859000" />
+      <workItem from="1587625301942" duration="12754000" />
+      <workItem from="1587696619996" duration="2987000" />
+      <workItem from="1587810006979" duration="4665000" />
+      <workItem from="1587882549047" duration="17586000" />
+      <workItem from="1587915191974" duration="11734000" />
+      <workItem from="1587953778843" duration="8252000" />
+      <workItem from="1588078938538" duration="17063000" />
+      <workItem from="1588309610225" duration="9792000" />
+      <workItem from="1588746207723" duration="2338000" />
+      <workItem from="1589771440621" duration="1214000" />
+      <workItem from="1589865510153" duration="5776000" />
+      <workItem from="1589989796355" duration="3415000" />
+      <workItem from="1590043448458" duration="10356000" />
+      <workItem from="1590122600831" duration="14856000" />
+      <workItem from="1590225126474" duration="11180000" />
+      <workItem from="1590311179830" duration="7936000" />
+      <workItem from="1590369501046" duration="13065000" />
+      <workItem from="1590460657505" duration="1456000" />
+      <workItem from="1590462214272" duration="15290000" />
+      <workItem from="1590557494894" duration="10787000" />
+      <workItem from="1590595867005" duration="5919000" />
+      <workItem from="1590675165635" duration="770000" />
+      <workItem from="1590735352691" duration="12369000" />
+      <workItem from="1590936272319" duration="878000" />
+      <workItem from="1591062752499" duration="4854000" />
+      <workItem from="1591173496310" duration="4107000" />
+      <workItem from="1591182719025" duration="2086000" />
+      <workItem from="1591277274950" duration="2683000" />
+      <workItem from="1591332744610" duration="2714000" />
+      <workItem from="1591543826936" duration="1918000" />
+      <workItem from="1591628793815" duration="3214000" />
+      <workItem from="1591715362713" duration="4496000" />
+      <workItem from="1591764718395" duration="1116000" />
+      <workItem from="1591783409551" duration="69000" />
+      <workItem from="1591800477154" duration="1163000" />
     </task>
     <servers />
   </component>
@@ -224,14 +354,273 @@
           <line>5</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Py28_0327_if_for_while/lm_04_while_define.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson4.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0327.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0327.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0327.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0327.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Py28_0327_if_for_while/lm_09_workhome.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Py28_0327_if_for_while/lm_09_workhome.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Py28_0408_os_module_file/lm_01_module_import_sort.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Py28_0408_os_module_file/lm_01_module_import_sort.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0408.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0408.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0408.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0408.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0408.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0408.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0408.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0408.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0408.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Py28_0422_json_requests/lm_03_dict_list_to_json.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0422.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0422.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Py28_0424_requests_test/lm_05_do_request.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Py28_0424_requests_test/lm_05_do_request.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Py28_0424_requests_test/lm_05_do_request.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Py28_0424_requests_test/lm_05_do_request.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_042402.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_042402.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_042402.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0427.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/homework/homework_0427.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.jenkins/workspace/python28_api/run.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.jenkins/workspace/python28_api/run.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestApi0509/scripts/handle_yaml.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/class_exercise/Py28_0429_unittest_2_excel/lm_04_read_data_from_excel.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/class_exercise/Py28_0429_unittest_2_excel/lm_04_read_data_from_excel.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/class_exercise/Py28_0429_unittest_2_excel/lm_04_read_data_from_excel.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/class_exercise/py_test_double/lm_04_read_data_from_excel.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/interview_test/interview_01.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/interview_test/interview_01.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/interview_test/interview_01.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log/ddt.py</url>
+          <line>284</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_study$homework_0323.coverage" NAME="homework_0323 Coverage Results" MODIFIED="1585233842241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_study$homework_0327.coverage" NAME="homework_0327 Coverage Results" MODIFIED="1585480785570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/python_study$lesson1.coverage" NAME="lesson1 Coverage Results" MODIFIED="1584629247615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_study$lm_03_handle_log.coverage" NAME="lm_03_handle_log Coverage Results" MODIFIED="1590601574780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log" />
+    <SUITE FILE_PATH="coverage/python_study$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1591288482611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/web_class_exercise/py28_0529_element" />
+    <SUITE FILE_PATH="coverage/python_study$homework_0403.coverage" NAME="homework_0403 Coverage Results" MODIFIED="1586323786531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/python_study$lm_03_handle_log__1_.coverage" NAME="lm_03_handle_log (1) Coverage Results" MODIFIED="1590600968801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py28_0508_handle_config_log" />
+    <SUITE FILE_PATH="coverage/python_study$lm_02_unittest_discover.coverage" NAME="lm_02_unittest_discover Coverage Results" MODIFIED="1590155798756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py28_0429_unittest_2_excel" />
+    <SUITE FILE_PATH="coverage/python_study$handel_excel.coverage" NAME="handel_excel Coverage Results" MODIFIED="1590248367119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/class_exercise/py28_0506_excel_ddt" />
+    <SUITE FILE_PATH="coverage/python_study$Unittests_for_test_01_register_TestRegister.coverage" NAME="Unittests for test_01_register.TestRegister Coverage Results" MODIFIED="1590771187906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design" />
     <SUITE FILE_PATH="coverage/python_study$lesson3.coverage" NAME="lesson3 Coverage Results" MODIFIED="1584885384187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_study$report.coverage" NAME="report Coverage Results" MODIFIED="1590488085007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log" />
+    <SUITE FILE_PATH="coverage/python_study$homework_0413.coverage" NAME="homework_0413 Coverage Results" MODIFIED="1587030118592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/python_study$lm_01_module_import_sort.coverage" NAME="lm_01_module_import_sort Coverage Results" MODIFIED="1586771498373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py28_0408_os_module_file" />
+    <SUITE FILE_PATH="coverage/python_study$homework_042402.coverage" NAME="homework_042402 Coverage Results" MODIFIED="1587960873787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/python_study$find_element.coverage" NAME="find_element Coverage Results" MODIFIED="1590754136654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/web_class_exercise/py28_0527_js_dom_selenium" />
+    <SUITE FILE_PATH="coverage/python_study$homework_0330.coverage" NAME="homework_0330 Coverage Results" MODIFIED="1585739737781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/python_study$lm_01_read_data_from_excel__1_.coverage" NAME="lm_01_read_data_from_excel (1) Coverage Results" MODIFIED="1590155339722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/class_exercise/py28_0506_excel_ddt" />
+    <SUITE FILE_PATH="coverage/python_study$homework_0323.coverage" NAME="homework_0323 Coverage Results" MODIFIED="1588423512352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/python_study$homework_0424.coverage" NAME="homework_0424 Coverage Results" MODIFIED="1587919883181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/python_study$handle_yaml.coverage" NAME="handle_yaml Coverage Results" MODIFIED="1590597676256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log" />
+    <SUITE FILE_PATH="coverage/python_study$homework_0401.coverage" NAME="homework_0401 Coverage Results" MODIFIED="1585903258783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/python_study$lm_01_unittest.coverage" NAME="lm_01_unittest Coverage Results" MODIFIED="1590078821095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/py_test/Py28_0429_unittest_2_excel" />
+    <SUITE FILE_PATH="coverage/python_study$lm_02_read_yaml.coverage" NAME="lm_02_read_yaml Coverage Results" MODIFIED="1590595659979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log" />
+    <SUITE FILE_PATH="coverage/python_study$lm_03_unittest_report.coverage" NAME="lm_03_unittest_report Coverage Results" MODIFIED="1590376687201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/class_exercise/Py28_0429_unittest_2_excel" />
+    <SUITE FILE_PATH="coverage/python_study$lesson4.coverage" NAME="lesson4 Coverage Results" MODIFIED="1585485591085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_study$lm_04_while_define.coverage" NAME="lm_04_while_define Coverage Results" MODIFIED="1585484239092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py28_0327_if_for_while" />
+    <SUITE FILE_PATH="coverage/python_study$lm_05_do_request.coverage" NAME="lm_05_do_request Coverage Results" MODIFIED="1587903020467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py28_0424_requests_test" />
+    <SUITE FILE_PATH="coverage/python_study$Unittests_in_test_01_register_py.coverage" NAME="Unittests in test_01_register.py Coverage Results" MODIFIED="1590424969950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/interface_class_exercise/py28_0506_excel_ddt" />
+    <SUITE FILE_PATH="coverage/python_study$interview_02.coverage" NAME="interview_02 Coverage Results" MODIFIED="1590316729449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/interview_test" />
+    <SUITE FILE_PATH="coverage/python_study$lesson1.coverage" NAME="lesson1 Coverage Results" MODIFIED="1584629247615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_study$test1_shiqi.coverage" NAME="test1_shiqi Coverage Results" MODIFIED="1587307577295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py28_0415_class_object_2" />
     <SUITE FILE_PATH="coverage/python_study$homework_0325.coverage" NAME="homework_0325 Coverage Results" MODIFIED="1585238626520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_study$open_brower.coverage" NAME="open_brower Coverage Results" MODIFIED="1590465861688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/web_class_exercise/py28_0526_selenium_html" />
+    <SUITE FILE_PATH="coverage/python_study$lm_08_examples.coverage" NAME="lm_08_examples Coverage Results" MODIFIED="1586775729573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py38_0410_file_exception" />
+    <SUITE FILE_PATH="coverage/python_study$homework_0408.coverage" NAME="homework_0408 Coverage Results" MODIFIED="1586534174991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/python_study$Unittests_for_homework_0427_TestRegister_test_2no_mobile.coverage" NAME="Unittests for homework_0427.TestRegister.test_2no_mobile Coverage Results" MODIFIED="1588157773679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/python_study$Unittests_in_test_01_register_py__1_.coverage" NAME="Unittests in test_01_register.py (1) Coverage Results" MODIFIED="1590505279289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log" />
+    <SUITE FILE_PATH="coverage/python_study$run.coverage" NAME="run Coverage Results" MODIFIED="1590771417397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design" />
+    <SUITE FILE_PATH="coverage/python_study$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1589872804392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/test" />
+    <SUITE FILE_PATH="coverage/python_study$lm_03_read_data_list_dict.coverage" NAME="lm_03_read_data_list_dict Coverage Results" MODIFIED="1590243863489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/class_exercise/py28_0506_excel_ddt" />
+    <SUITE FILE_PATH="coverage/python_study$homework_0410.coverage" NAME="homework_0410 Coverage Results" MODIFIED="1586789623153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/python_study$lm_04_read_data_from_excel.coverage" NAME="lm_04_read_data_from_excel Coverage Results" MODIFIED="1590131528043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/py_test/Py28_0429_unittest_2_excel" />
+    <SUITE FILE_PATH="coverage/python_study$Unittests_for_test_01_register_TestRegister_test_register.coverage" NAME="Unittests for test_01_register.TestRegister.test_register Coverage Results" MODIFIED="1590771157724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design" />
+    <SUITE FILE_PATH="coverage/python_study$homework_0327.coverage" NAME="homework_0327 Coverage Results" MODIFIED="1586062287147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/python_study$homework_0422.coverage" NAME="homework_0422 Coverage Results" MODIFIED="1587702561975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/python_study$lm_01_read_data_from_excel.coverage" NAME="lm_01_read_data_from_excel Coverage Results" MODIFIED="1590155366312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py28_0506_excel_ddt" />
+    <SUITE FILE_PATH="coverage/python_study$lm_02_write_data_into_excel.coverage" NAME="lm_02_write_data_into_excel Coverage Results" MODIFIED="1590156890991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/class_exercise/py28_0506_excel_ddt" />
+    <SUITE FILE_PATH="coverage/python_study$lm_02_scope.coverage" NAME="lm_02_scope Coverage Results" MODIFIED="1586279946960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py28_0403_function_module" />
+    <SUITE FILE_PATH="coverage/python_study$Unittests_for_test_01_register_TestRegister_test_register__1_.coverage" NAME="Unittests for test_01_register.TestRegister.test_register (1) Coverage Results" MODIFIED="1590503084621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log" />
+    <SUITE FILE_PATH="coverage/python_study$interview_01.coverage" NAME="interview_01 Coverage Results" MODIFIED="1590227832747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/interview_test" />
+    <SUITE FILE_PATH="coverage/python_study$lm_04_read_data_from_excel__1_.coverage" NAME="lm_04_read_data_from_excel (1) Coverage Results" MODIFIED="1590133098045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/py_test_double" />
+    <SUITE FILE_PATH="coverage/python_study$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1590601435027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log" />
+    <SUITE FILE_PATH="coverage/python_study$lm_09_workhome.coverage" NAME="lm_09_workhome Coverage Results" MODIFIED="1586067691210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py28_0327_if_for_while" />
+    <SUITE FILE_PATH="coverage/python_study$lm_03_class_inherit.coverage" NAME="lm_03_class_inherit Coverage Results" MODIFIED="1587282156253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py28_0415_class_object_2" />
+    <SUITE FILE_PATH="coverage/python_study$Unittests_in_homework_0427_py.coverage" NAME="Unittests in homework_0427.py Coverage Results" MODIFIED="1588158037601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/python_study$homework_0415.coverage" NAME="homework_0415 Coverage Results" MODIFIED="1587121626177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
   </component>
 </project>

@@ -1,0 +1,7 @@
+excel:
+  filename: testcase.xlsx
+  actual_result_column: 7
+  result_column: 8
+
+api:
+

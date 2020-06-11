@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/myself_test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myself_test/homework/homework_0429" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myself_test/class_exercise/Py28_0429_unittest_2_excel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myself_test/interface_class_exercise/Py28_0508_handle_config_log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myself_test/interface_class_exercise/Py28_0509_log_project_design" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
